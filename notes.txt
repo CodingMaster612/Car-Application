@@ -1,0 +1,5 @@
+1. new cars
+2. used cars
+- min of 10 cars
+-Every detail of a vehicle like manufacturer name, date of purchase, mileage ( in case of used vehicles), 
+-price, make/model, car description picture/s of the car
